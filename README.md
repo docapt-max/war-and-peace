@@ -16,4 +16,3 @@ An interactive, continuous-flow web reader of Leo Tolstoy's **War and Peace**, o
 ## 📁 Repository Contents
 - index.html — The complete interactive edition (all 17 books and 365 chapters).
 - war-and-peace.webp — Cover art for the collapsible image viewer.
-- war-and-peace-family-tree.pdf — Reference character guide and genealogy.
