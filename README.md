@@ -1,4 +1,4 @@
-﻿# War and Peace — Interactive Paginated Mobile Edition
+# War and Peace — Interactive Paginated Mobile Edition
 
 An interactive, paginated web edition of Leo Tolstoy's **War and Peace**, divided into Books, Chapters, and Pages matching the original PDF reference.
 
